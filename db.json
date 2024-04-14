@@ -1,0 +1,76 @@
+{
+  "clients": [
+    {
+      "fecha": "2023-04-26",
+      "nombre": "Camila Ayelen Brahim",
+      "red": "n",
+      "correo": "cami@gmail.com",
+      "sexo": "Femenino",
+      "moto": "e",
+      "modelo": "moto 123",
+      "dominio": "nose",
+      "telefono": "+5493816979681",
+      "barrio": "72 viviendas",
+      "problema": "motor",
+      "estado": "Bueno",
+      "servicio": "Cambio reten motor",
+      "mecanico": "Ivan",
+      "status": true,
+      "spotLight": false,
+      "id": 1
+    },
+    {
+      "fecha": "2024-04-03",
+      "nombre": "Camila Ayelen Brahim",
+      "red": "camiiibrahim",
+      "correo": "cami@gmail.com",
+      "sexo": "Femenino",
+      "moto": "23",
+      "modelo": "hola",
+      "dominio": "nose",
+      "telefono": "123455421",
+      "barrio": "72vivi",
+      "problema": "no funciona el motor",
+      "estado": "Medio",
+      "servicio": "Abrir motor 110cc",
+      "mecanico": "Gaston",
+      "status": false,
+      "spotLight": false,
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "camila ayelen",
+      "lastname": "brahim",
+      "email": "camila.brahim@alu.frt.utn.edu.ar",
+      "password": "camila123",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "name": "Lautaro Emanuel ",
+      "lastname": "Bravo",
+      "email": "lauty36@gmail.com",
+      "password": "lautaro2024",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "name": "elida",
+      "lastname": "recalde",
+      "email": "eli36@gmail.com",
+      "password": "hola2023",
+      "role": "client",
+      "id": 3
+    },
+    {
+      "name": "elida",
+      "lastname": "recalde",
+      "email": "eli36@gmail.com",
+      "password": "hola2023",
+      "role": "admin",
+      "id": 4
+    }
+  ]
+}
